@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-webapp-three.vercel.app/](https://portfolio-webapp-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-webapp-three.vercel.app/](https://portfolio-webapp-mstripathi.vercel.app/)
 
 - 📫 How to reach me **mayank.tripathi218@gmail.com**
 
