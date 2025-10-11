@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mayank Shekhar Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mayank Tripathi</h1>
+<h3 align="center">A full-stack developer dedicated to creating end-to-end digital solutions.</h3>
 
 - 🌱 I’m currently learning **Next js**
 
